@@ -37,7 +37,8 @@ public class NoJavaUtilDateRuleTest implements ArchRuleTest {
 
 	@Override
 	public void execute(String path, ScopePathProvider scopePathProvider) {
-		classes().should(notUseJavaUtilDate()).check(ArchUtils.importAllClassesInPackage(path, scopePathProvider.getMainClassesPath()));
+		classes().should(notUseJavaUtilDate())
+				.check(ArchUtils.importAllClassesInPackage(path, scopePathProvider.getMainClassesPath()));
 	}
 
 	protected static ArchCondition<JavaClass> notUseJavaUtilDate() {
@@ -46,10 +47,9 @@ public class NoJavaUtilDateRuleTest implements ArchRuleTest {
 			@Override
 			public void check(JavaClass item, ConditionEvents events) {
 
-				item.getAllFields().stream().filter(this::isJavaUtilDateField).forEach(field ->
-					events.add(SimpleConditionEvent.violated(field,
-							NO_JAVA_UTIL_DATE_VIOLATION_MESSAGE + " - class: " + field.getOwner().getName()))
-				);
+				item.getAllFields().stream().filter(this::isJavaUtilDateField)
+						.forEach(field -> events.add(SimpleConditionEvent.violated(field,
+								NO_JAVA_UTIL_DATE_VIOLATION_MESSAGE + " - class: " + field.getOwner().getName())));
 
 			}
 
