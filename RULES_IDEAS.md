@@ -43,6 +43,12 @@ https://medium.com/@davidwatkins73/using-archunit-to-formalize-architecture-rule
 
 https://www.google.com/search?q=naming+convention+arch+unit&oq=naming+convention+&aqs=chrome.0.69i59j69i57j0j69i60l2.11193j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8
 
+# regex naming constants java
+
+https://www.google.com/search?q=regex+naming+constants+java&oq=regex+naming+constants+java&aqs=chrome..69i57j33.19527j0j7&sourceid=chrome&ie=UTF-8
+
+https://rules.sonarsource.com/java/RSPEC-115
+
 
 
 
