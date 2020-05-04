@@ -50,6 +50,18 @@ https://www.google.com/search?q=regex+naming+constants+java&oq=regex+naming+cons
 https://rules.sonarsource.com/java/RSPEC-115
 
 
+# a final field should also be declared
 
 
+https://www.google.com/search?q=a+final+field+should+also+be+declared&oq=final+fields+shoul&aqs=chrome.1.69i57j0.19979j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=a%20final%20field%20should%20also%20be%20declared
+
+
+https://stackoverflow.com/questions/35095483/why-should-data-fields-be-static-and-final
+
+
+https://www.geeksforgeeks.org/final-keyword-java/amp/
+
+
+
+https://www.techiedelight.com/final-keyword-java-variables-methods-and-classes/
 
