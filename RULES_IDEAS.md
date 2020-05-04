@@ -62,6 +62,12 @@ https://stackoverflow.com/questions/35095483/why-should-data-fields-be-static-an
 https://www.geeksforgeeks.org/final-keyword-java/amp/
 
 
-
 https://www.techiedelight.com/final-keyword-java-variables-methods-and-classes/
 
+# General Coding Rules
+
+https://www.google.com/search?q=General+Coding+Rules&oq=General+Coding+Rules+&aqs=chrome..69i57j0l3.15896j0j7&sourceid=chrome&ie=UTF-8
+
+https://medium.com/@marilu597/general-coding-guidelines-clean-code-from-day-1-9ab0804e5d91
+
+https://icdlist.com/icd-10/guidelines/general-coding-guidelines
