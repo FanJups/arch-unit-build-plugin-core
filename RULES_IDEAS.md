@@ -71,3 +71,13 @@ https://www.google.com/search?q=General+Coding+Rules&oq=General+Coding+Rules+&aq
 https://medium.com/@marilu597/general-coding-guidelines-clean-code-from-day-1-9ab0804e5d91
 
 https://icdlist.com/icd-10/guidelines/general-coding-guidelines
+
+# At least 45 rules to implement
+
+https://rules.sonarsource.com/java/tag/user-experience
+
+https://rules.sonarsource.com/java/tag/convention/RSPEC-1170
+
+https://rules.sonarsource.com/java/tag/convention/RSPEC-120
+
+https://rules.sonarsource.com/java/tag/api-design/RSPEC-4042
